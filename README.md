@@ -27,7 +27,7 @@ Task 4: Search Feature
 •	Ask user for keyword (e.g., ERROR) 
 •	Print matching lines 
 •	Save results in search_result.txt
-File Pointer (seek) Operations  (Important)
+File Pointer (seek) Operations ⭐ (Important)
 Perform:
 1.	Open file in read mode 
 2.	Read first 50 characters 
@@ -46,3 +46,4 @@ o	warning_logs.txt
 o	error_logs.txt 
 o	search_result.txt 
 3.	Screenshot of output
+
